@@ -17,4 +17,3 @@ Projeto construído do evento Next Level Week da Rocketseat.
 ## Contato
 
 - Email douglasferreira589@gmail.com
-- Github https://github.com/togaferreira
