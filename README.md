@@ -1,6 +1,6 @@
 # NLW eSports - Trilha Explorer4
 
-![preview](./.github/togaferreira.github.io_NLW-Esports-site_.png)
+![preview](./togaferreira.github.io_NLW-Esports-site_.png)
 
 > Trilha Explorer
 
